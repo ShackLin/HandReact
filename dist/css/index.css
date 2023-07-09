@@ -1,0 +1,12 @@
+/*!********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./public/index.css ***!
+  \********************************************************************/
+body,
+html {
+      background-color: pink;
+}
+
+#root {
+      font-size: 50px;
+      color: white;
+}
